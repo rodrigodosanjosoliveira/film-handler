@@ -1,6 +1,6 @@
 # film-ratings
 
-FIXME: description
+Duct app
 
 ## Developing
 
@@ -67,5 +67,4 @@ lein test
 
 ## Legal
 
-Copyright © 2020 FIXME
-# film-handler
+Copyright © 2020 Rodrigo Oliveira
